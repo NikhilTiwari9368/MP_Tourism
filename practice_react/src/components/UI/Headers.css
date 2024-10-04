@@ -1,0 +1,78 @@
+header {
+    height: 6rem; 
+    box-shadow: rgba(255, 255, 255, 0.3) 0px 10px 10px 0px;
+    background-color: #0095c7;
+    width: 100%;
+
+    & .container {
+        height: 6rem; 
+        display: flex; /* Use flexbox for layout */
+        align-items: center; /* Center vertically */
+        justify-content: space-between; /* Space between logo and navbar */
+    }
+}
+
+.navbar-grid {
+    display: flex; /* Use flex for navbar layout */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Space between logo and nav */
+    width: 100%; /* Full width of container */
+    padding: 0 3.2rem; /* Side padding */
+}
+
+nav ul {
+    display: flex; /* Flex for horizontal layout */
+    justify-content: center; /* Center the navbar items */
+    gap: 3.2rem; /* Space between nav items */
+    color: #000000; /* Text color */
+
+    & li a {
+        color: #000000; /* Link color */
+        text-decoration: none; /* Remove underline from links */
+        transition: color 0.3s; /* Smooth color transition */
+        
+        &:hover {
+            color: #ff9800; 
+        }
+    }
+}
+
+.ham-menu {
+    display: none; 
+}
+
+@media screen and (max-width: 998px) {
+    .menu-web {
+        display: none; 
+    }
+
+    .ham-menu {
+        display: flex; 
+        justify-content: flex-end; 
+    }
+
+    .menu-mobile {
+        position: absolute;
+        top: 5rem;
+        left: 0;
+        background-color: #0d1212; 
+        width: 100%; 
+        box-shadow: rgba(255, 252, 252, 0.25) 0px 14px 28px;
+
+        & ul {
+            display: flex;
+            flex-direction: column; 
+            align-items: center;
+
+            & li:first-child {
+                margin-top: 1.2rem; 
+            }
+
+            & li:last-child {
+                margin-bottom: 1.2rem; 
+            }
+        }
+    }
+}
+
+

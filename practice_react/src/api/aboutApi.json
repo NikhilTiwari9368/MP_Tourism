@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Khajuraho Temples",
+      "description": "Famous for their intricate sculptures and carvings.",
+      "image": "https://example.com/images/khajuraho.jpg",
+      "location": "Khajuraho",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Sanchi Stupa",
+      "description": "A UNESCO World Heritage site known for its stupas and monasteries.",
+      "image": "https://example.com/images/sanchi.jpg",
+      "location": "Sanchi",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Bandhavgarh National Park",
+      "description": "Famous for its Bengal tiger population and diverse wildlife.",
+      "image": "https://example.com/images/bandhavgarh.jpg",
+      "location": "Bandhavgarh",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "Pachmarhi",
+      "description": "A beautiful hill station known for its waterfalls and scenic views.",
+      "image": "https://example.com/images/pachmarhi.jpg",
+      "location": "Pachmarhi",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Gwalior Fort",
+      "description": "A historic fort known for its impressive architecture and rich history.",
+      "image": "https://example.com/images/gwalior-fort.jpg",
+      "location": "Gwalior",
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "name": "Mandu",
+      "description": "Known for its beautiful ruins and stunning landscapes.",
+      "image": "https://example.com/images/mandu.jpg",
+      "location": "Mandu",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "name": "Kanha National Park",
+      "description": "A renowned tiger reserve famous for its biodiversity.",
+      "image": "https://example.com/images/kanha.jpg",
+      "location": "Kanha",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Orchha",
+      "description": "Famous for its palaces and temples, set along the Betwa River.",
+      "image": "https://example.com/images/orchha.jpg",
+      "location": "Orchha",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "Bhimbetka Rock Shelters",
+      "description": "Famous for prehistoric rock paintings.",
+      "image": "https://example.com/images/bhimbetka.jpg",
+      "location": "Raisen",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "name": "Ujjain",
+      "description": "One of the seven Mukti Sthalas, famous for its Kumbh Mela.",
+      "image": "https://example.com/images/ujjain.jpg",
+      "location": "Ujjain",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "name": "Patalpani Waterfall",
+      "description": "A stunning waterfall located near Indore.",
+      "image": "https://example.com/images/patalpani.jpg",
+      "location": "Indore",
+      "rating": 4.4
+    },
+    {
+      "id": 12,
+      "name": "Tawang",
+      "description": "Known for its stunning views and vibrant culture.",
+      "image": "https://example.com/images/tawang.jpg",
+      "location": "Tawang",
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "name": "Bhedaghat",
+      "description": "Famous for its marble rocks and the Dhuandhar Falls.",
+      "image": "https://example.com/images/bhedaghat.jpg",
+      "location": "Jabalpur",
+      "rating": 4.8
+    },
+    {
+      "id": 14,
+      "name": "Chitrakoot",
+      "description": "A holy town associated with the Ramayana.",
+      "image": "https://example.com/images/chitrakoot.jpg",
+      "location": "Chitrakoot",
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "name": "Khajuraho Dance Festival",
+      "description": "A celebration of classical dance forms in the backdrop of Khajuraho temples.",
+      "image": "https://example.com/images/dance-festival.jpg",
+      "location": "Khajuraho",
+      "rating": 4.9
+    },
+    {
+      "id": 16,
+      "name": "Sardar Sarovar Dam",
+      "description": "One of the largest dams in India, offering scenic views.",
+      "image": "https://example.com/images/sardar-sarovar.jpg",
+      "location": "Narmada",
+      "rating": 4.5
+    },
+    {
+      "id": 17,
+      "name": "Rajwada Palace",
+      "description": "An ancient palace reflecting the history and culture of Indore.",
+      "image": "https://example.com/images/rajwada.jpg",
+      "location": "Indore",
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "name": "Kanch Mandir",
+      "description": "A famous Jain temple adorned with intricate glass work.",
+      "image": "https://example.com/images/kanch-mandir.jpg",
+      "location": "Indore",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "name": "Turiya Waterfall",
+      "description": "A beautiful waterfall known for its serene environment.",
+      "image": "https://example.com/images/turiya.jpg",
+      "location": "Madhya Pradesh",
+      "rating": 4.7
+    },
+    {
+      "id": 20,
+      "name": "Mandu Fort",
+      "description": "Known for its impressive architecture and historical significance.",
+      "image": "https://example.com/images/mandu-fort.jpg",
+      "location": "Mandu",
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "name": "Gwalior Zoo",
+      "description": "Home to a variety of species and a great spot for family outings.",
+      "image": "https://example.com/images/gwalior-zoo.jpg",
+      "location": "Gwalior",
+      "rating": 4.3
+    },
+    {
+      "id": 22,
+      "name": "Buddhist Monuments at Sanchi",
+      "description": "A set of ancient Buddhist monuments and stupas.",
+      "image": "https://example.com/images/sanchi-monuments.jpg",
+      "location": "Sanchi",
+      "rating": 4.6
+    },
+    {
+      "id": 23,
+      "name": "Shivpuri National Park",
+      "description": "A national park known for its flora and fauna.",
+      "image": "https://example.com/images/shivpuri.jpg",
+      "location": "Shivpuri",
+      "rating": 4.4
+    },
+    {
+      "id": 24,
+      "name": "Kanha National Park",
+      "description": "Famous for its scenic beauty and wildlife, especially tigers.",
+      "image": "https://example.com/images/kanha-national-park.jpg",
+      "location": "Kanha",
+      "rating": 4.9
+    },
+    {
+      "id": 25,
+      "name": "Pachmarhi Wildlife Sanctuary",
+      "description": "A sanctuary home to a variety of flora and fauna.",
+      "image": "https://example.com/images/pachmarhi-wildlife.jpg",
+      "location": "Pachmarhi",
+      "rating": 4.7
+    }
+]
+  

@@ -1,0 +1,68 @@
+.footer-section {
+    background-color: #add8e6; /* Light blue background */
+    box-shadow: rgba(255, 255, 255, 0.3) 0px -10px 10px 0px; /* Shadow effect for footer */
+    width: 100%;
+    padding: 2rem 0; /* Padding for top and bottom */
+}
+
+.container {
+    width: 90%; /* Container width */
+    margin: 0 auto; /* Center the container */
+    display: flex; /* Flexbox layout */
+    flex-direction: column; /* Column layout for sections */
+    align-items: center; /* Center items */
+}
+
+.grid {
+    display: grid; /* Grid layout */
+    gap: 1.5rem; /* Space between grid items */
+}
+
+.grid-three-cols {
+    grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+}
+
+.grid-two-cols {
+    grid-template-columns: repeat(2, 1fr); /* Two equal columns */
+}
+
+.footer-contact {
+    display: flex; /* Flex for horizontal layout */
+    align-items: center; /* Center items vertically */
+}
+
+.icon {
+    font-size: 2rem; /* Size for icons */
+    margin-right: 1rem; /* Space between icon and text */
+    color: #000; /* Icon color */
+}
+
+.footer-contact-text p {
+    margin: 0; /* Remove default margin */
+    color: #000; /* Text color */
+}
+
+.copyright-area {
+    margin-top: 2rem; /* Space above copyright */
+}
+
+.copyright-text p {
+    color: #000; /* Text color */
+}
+
+nav ul {
+    display: flex; /* Flex for horizontal layout */
+    justify-content: center; /* Center the navbar items */
+    gap: 3.2rem; /* Space between nav items */
+    color: #ffffff; /* Text color */
+}
+
+nav ul li a {
+    color: #fff; /* Link color */
+    text-decoration: none; /* Remove underline from links */
+    transition: color 0.3s; /* Smooth color transition */
+    
+    &:hover {
+        color: #ff9800; /* Change color on hover */
+    }
+}
